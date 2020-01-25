@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignUpApp</string>
+    <string name="daftar">Sign Up</string>
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="conten_text">Adinda Langue Center adalah tempat untuk belajar Bahasa Inggris
+        untuk semua kalangan. Terdapat bermacam kelas belajar disini! Beginner Class, Middle Class, dan Expert Class.
+        Segera daftarkan dirimu dan kuasai bahasa internasional di Dunia!</string>
+</resources>
